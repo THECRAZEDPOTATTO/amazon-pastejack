@@ -3,7 +3,7 @@ __author__ = "billythegoat356"
 __github__ = "https://github.com/billythegoat356/Specter"
 __discord__ = "https://discord.gg/plague"
 __license__ = "EPL-2.0"
-__code__ = "cow"
+__code__ = "Hello world!"
 
 
 Any = (...,)
